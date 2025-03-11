@@ -13,6 +13,10 @@
 - Fifth Project: making dice roller app. In here I've learned about:
   - **Haptic Feedback**: Use react-native-haptic-feedback for vibrations when buttons are pressed.
   - **Dice Randomizer**: Generates random numbers (1-6) and changes the image based on the result (using switch-case). 
+- Sixth Project: making currency exchange application. In here I've learned about:
+  - **Snackbar Notification**: Use react-native-snackbar to display error messages or information.
+  - **FlatList**: Display a list of currencies in a grid with FlatList. This method is more efficient because the app did not load all of the data but only the data displayed.
+  - **Constant**: Provide some constants value (data) that can be called and used in the app
 - coming soon
 
 ## If you copy or clone each project make sure to change the main directory's name with this rules:
@@ -21,6 +25,7 @@
 - third-project -> ThirdProject
 - fourth-project -> FourthProject
 - fifth-project -> FifthProject
+- sixth-project -> SixthProject
 - coming soon
 
 ## Also don't forget to download all dependency (use npm install) or (npm i) so it will generate node_modules folder in your project and download all dependencies according to package.json

@@ -17,6 +17,12 @@
   - **Snackbar Notification**: Use react-native-snackbar to display error messages or information.
   - **FlatList**: Display a list of currencies in a grid with FlatList. This method is more efficient because the app did not load all of the data but only the data displayed.
   - **Constant**: Provide some constants value (data) that can be called and used in the app
+- Seventh Project: making Tic Tac Toe app using React-Native. In here I've learned about:
+  - **Array**: used in arranging tic-tac-toe blocks totaling 9 items. Allows easy monitoring of win or end conditions
+  - **FlatList**: Display a list of currencies in a grid with FlatList. This method is more efficient because the app did not load all of the data but only the data displayed.
+  - **Icons**: Using the react-native-vector-icons/FontAwesome library allows the application to implement the required icons. Also added react-native-config.js in the root folder of the project to complete the code
+  - **useCallback**: Runs a function that is only recreated if its dependencies change.
+  - **useEffect**: Combined with useCallback to monitor dependency changes
 - coming soon
 
 ## If you copy or clone each project make sure to change the main directory's name with this rules:
@@ -26,6 +32,7 @@
 - fourth-project -> FourthProject
 - fifth-project -> FifthProject
 - sixth-project -> SixthProject
+- seventh-project -> SeventhProject
 - coming soon
 
 ## Also don't forget to download all dependency (use npm install) or (npm i) so it will generate node_modules folder in your project and download all dependencies according to package.json
